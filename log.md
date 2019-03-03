@@ -374,7 +374,7 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d24_fil
 
 
 **Thoughts:**
-None. I don't want to think. I just want to get things done.
+None. I don't want to think. I just want to get things done. //
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d25_files
