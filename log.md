@@ -372,15 +372,16 @@ https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d24_fil
 
 - Have to work on a project that uses Rails & JS, so spent most of my time today reviewing Rails & its asset pipeline.
 
+
 **Thoughts:**
-None. I don't want to think. I just want to get things done. //
+None. I don't want to think. I just want to get things done.
 
 **Link(s) to Work:**
 https://github.com/AAM77/100-days-of-code/tree/master/round%201%20code/r1d25_files
 
+
 ### Day 26: March 3, 2019
 **Today's Progress**:
-- Coding challenges/study group
 - Added more methods for the Black Jack game, but spent most of these two days:
 - (1) watching Rails & JS videos.
 - (2) reviewing/playing with jquery
@@ -423,6 +424,7 @@ Some work is Private
 
 ### Day 29: March 6, 2019
 **Today's Progress**:
+- Coding challenges/study group
 - Checked if the new methods play nice in the Python Black Jack Game
 - Played with tuple & dictionary methods in an attempt to implement a feature
 
@@ -451,6 +453,7 @@ Just focused on getting stuff done.
 Check my GitHub Commit History
 Some work is Private
 
+
 ### Day 31: March 8, 2019
 **Today's Progress**:
 - (Python) Made great progress on my Blackjack game today. It's time to start bringing it all together into a cohesive something. :)
@@ -464,3 +467,30 @@ I wish I hadn't run into the issue with the local environment. Two hours trouble
 https://github.com/learn-co-students/returning-string-data-v-000
 <br />
 https://github.com/AAM77/black_jack_python
+
+
+### Day 32: March 9, 2019
+**Today's Progress**:
+Coded all day. Worked on building APIs: Got through 7 lessons. Taking a short break from the Python blackjack game.  
+
+### Day 33: March 10, 2019
+**Today's Progress**:
+- Coded all day
+- Completed 3 lessons on building APIs
+- Ran into some hiccups, knots, bugs, and headaches while figuring out how to build a tic-tac-toe app using my knowledge of Rails, Ajax, & APIs
+-  Will keep at it tomorrow
+
+### Day 34: March 11, 2019
+**Today's Progress**:
+- More interactive browser tic-tac-toe via Rails, Ajax, & my knowledge of building APIs.
+- Encountered bumps in the road, but I managed to flatten out most of them!
+- Code Challenges / Study Group
+- Had to cut coding short today b/c of work
+
+### Day 35: March 13, 2019
+**Today's Progress**:
+- Had stuff to do for work yesterday and most of today
+
+- Completed several code Challenges
+- Hosted an online study group
+- Getting back on the coding horse tomorrow to work on the interactive browser based tic-tac-toe game
