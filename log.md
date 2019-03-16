@@ -494,3 +494,9 @@ Coded all day. Worked on building APIs: Got through 7 lessons. Taking a short br
 - Completed several code Challenges
 - Hosted an online study group
 - Getting back on the coding horse tomorrow to work on the interactive browser based tic-tac-toe game
+
+### Day 36: March 14, 2019
+**Today's Progress**:
+- Worked on the Rails & Ajax browser tic-tac-toe for most of the day
+- Got caught in weeds & brambles, but managed to cut many down to size.
+- So close to getting this working: maybe tomorrow will be the day.
