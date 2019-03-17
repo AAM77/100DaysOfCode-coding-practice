@@ -500,3 +500,9 @@ Coded all day. Worked on building APIs: Got through 7 lessons. Taking a short br
 - Worked on the Rails & Ajax browser tic-tac-toe for most of the day
 - Got caught in weeds & brambles, but managed to cut many down to size.
 - So close to getting this working: maybe tomorrow will be the day.
+
+### Day 36: March 14, 2019
+**Today's Progress**:
+- Coded all day, but the Sandman got me before I could post here. Dreamt I was still coding.
+- It was supposed to be the "day," but 3 (of 40) tests won't pass for the browser tic-tac-toe even though everything works as expected
+- Jumping back in!
